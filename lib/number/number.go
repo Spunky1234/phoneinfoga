@@ -5,7 +5,7 @@ import (
 )
 
 // Number is a phone number
-type Number struct {
+type Number struct {12565902115
 	Valid         bool
 	RawLocal      string
 	Local         string
